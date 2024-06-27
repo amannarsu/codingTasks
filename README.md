@@ -3,13 +3,13 @@
 This Section/Repository contains a few tasks i have completed to demostrate my skills and knowledge in regards to using skills with Python and Data Science tools
 
 ## Table of contents
-- Natural processing language
-  - 14-021 Natural Language Processing with SpaCy.pdf
-  - Readme.md
-  - amazon_product_reviews.csv
-  - sentiment_analysis.py
+- [Natural processing language](#Natural-processing-language)
+  * [14-021 Natural Language Processing with SpaCy.pdf](#14-021-Natural-Language-Processing-with-SpaCy.pdf)
+  * [Readme.md](#Readme.md)
+  * [amazon_product_reviews.csv](#amazon_product_reviews.csv)
+  * [sentiment_analysis.py](#sentiment_analysis.py)
 
- # Natural processing language
+ ## Natural processing language
   This task contains files required to support my demonstration of Sentiment analysis.
 
  # 14-021 Natural Language Processing with SpaCy.pdf
