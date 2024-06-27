@@ -4,12 +4,12 @@ This Section/Repository contains a few tasks i have completed to demostrate my s
 
 ## Table of contents
 - [Natural processing language](#Natural-processing-language)
-  * [14-021 Natural Language Processing with SpaCy.pdf](#14-021-Natural-Language-Processing-with-SpaCy.pdf)
-  * [Readme.md](#Readme.md)
-  * [amazon_product_reviews.csv](#amazon_product_reviews.csv)
-  * [sentiment_analysis.py](#sentiment_analysis.py)
+  * [14-021 Natural Language Processing with SpaCy.pdf](#14-021-natural-language-processing-with-spacypdf)
+  * [Readme.md](#readmemd)
+  * [amazon_product_reviews.csv](#amazon_product_reviewscsv)
+  * [sentiment_analysis.py](#sentiment_analysispy)
 
- ## Natural processing language
+ # Natural processing language
   This task contains files required to support my demonstration of Sentiment analysis.
 
  # 14-021 Natural Language Processing with SpaCy.pdf
