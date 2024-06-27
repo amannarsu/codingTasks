@@ -1,4 +1,8 @@
 # Sentiment analysis report
+Libraries used: 
+- **Spacy** for NLP processing
+- **Pandas** for data manipulation
+- **SpacyTextBlob** for sentiment analysis
 
 ## A description of the dataset used.
 The data set I have used for this project is the ‘amazon_product_reviews’ from Kaggle:
